@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: PlayerCamera
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":73.0,"y":100.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-360.0,"y":-12.0},"guid":"9f8a728d-522a-47a6-a0a2-2658f5c61fc2","$version":"A","$type":"Unity.VisualScripting.Update"},{"member":{"name":"LocalPlayer","parameterTypes":null,"targetType":"Photon.Pun.PhotonNetwork","targetTypeName":"Photon.Pun.PhotonNetwork","$version":"A"},"defaultValues":{},"position":{"x":-360.0,"y":96.0},"guid":"9f45aaa3-c3f6-444e-9466-2562054f8760","$version":"A","$type":"Unity.VisualScripting.GetMember"}],"$version":"A"}}'
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":73.0,"y":100.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-360.0,"y":-12.0},"guid":"9f8a728d-522a-47a6-a0a2-2658f5c61fc2","$version":"A","$type":"Unity.VisualScripting.Update"}],"$version":"A"}}'
     _objectReferences: []
