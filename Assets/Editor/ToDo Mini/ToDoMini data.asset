@@ -36,10 +36,12 @@ MonoBehaviour:
   - task: '[CODE] Players can attack only by card-defined attack'
     isComplete: 0
   - task: CODE - Players have health points
-    isComplete: 0
+    isComplete: 1
   - task: CODE Player ID on Game Start
     isComplete: 0
   - task: Credits Window
     isComplete: 0
   - task: CODE - Turn counter
+    isComplete: 1
+  - task: CODE Move card on hover
     isComplete: 0
