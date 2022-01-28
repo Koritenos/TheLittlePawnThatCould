@@ -28,8 +28,8 @@ MonoBehaviour:
     AuthMode: 0
     EnableLobbyStatistics: 1
     NetworkLogging: 1
-  DevRegion: 
-  PunLogging: 2
+  DevRegion: eu
+  PunLogging: 0
   EnableSupportLogger: 1
   RunInBackground: 1
   StartInOfflineMode: 0
@@ -38,4 +38,4 @@ MonoBehaviour:
   - DestroyRpc
   DisableAutoOpenWizard: 1
   ShowSettings: 1
-  DevRegionSetOnce: 0
+  DevRegionSetOnce: 1
