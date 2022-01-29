@@ -63,12 +63,18 @@ MonoBehaviour:
       Container","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Left
       Bottom Position","value":{"x":-20.0,"y":0.0,"z":-20.0,"$type":"UnityEngine.Vector3"},"typeHandle":{"Identification":"UnityEngine.Vector3,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"EnemyObject","value":{"$content":4,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"LootObjectList","value":{"$content":[{"Key":{"$content":5,"$type":"UnityEngine.Object"},"Value":{"$content":0,"$type":"System.Int32"}},{"Key":{"$content":6,"$type":"UnityEngine.Object"},"Value":{"$content":0,"$type":"System.Int32"}},{"Key":{"$content":7,"$type":"UnityEngine.Object"},"Value":{"$content":0,"$type":"System.Int32"}}],"$type":"Unity.VisualScripting.AotDictionary"},"typeHandle":{"Identification":"Unity.VisualScripting.AotDictionary,
+      Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 5119769235028388082, guid: 5fceb04f50f3b7442ae4506dd8df34ee, type: 3}
     - {fileID: 2100000, guid: c4051d9218939e246ab63aefaa892b2b, type: 2}
     - {fileID: 2100000, guid: 23afce6c4837b8e4680d796711add9f0, type: 2}
     - {fileID: 115887330076677655}
+    - {fileID: 5782867024280984845, guid: c3685897e3768a944835615fc11852e7, type: 3}
+    - {fileID: 923032226187643332, guid: 050bce0f8df169c45925c63ee2169e28, type: 3}
+    - {fileID: 8167403625501268368, guid: a6cba97f39536d949ab358ab25ef8dd3, type: 3}
+    - {fileID: 166796918557213848, guid: de1396633a2f90346b093c5268b7d3ac, type: 3}
 --- !u!114 &115887329930943995
 MonoBehaviour:
   m_ObjectHideFlags: 0
