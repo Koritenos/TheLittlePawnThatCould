@@ -6,7 +6,9 @@ public class CardBlueprintContainer : ScriptableObject
 
     public string _cardName;
     public Sprite _cardSplash;
+    public string _cardMovementDescription;
     public string _cardMovementClass;
+    public string _cardActionDescription;
     public string _cardActionClass;
 
 }
