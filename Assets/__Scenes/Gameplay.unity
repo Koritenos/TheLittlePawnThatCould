@@ -945,10 +945,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: SimpleBoard
       objectReference: {fileID: 0}
-    - target: {fileID: 115887329930943995, guid: 57c784a81327de740975e6594a6a61c7, type: 3}
-      propertyPath: _data._objectReferences.Array.data[0]
-      value: 
-      objectReference: {fileID: 11400000, guid: 2842dd4cbfdb2f94890187895d1402b9, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57c784a81327de740975e6594a6a61c7, type: 3}
 --- !u!1001 &5476834778692641760
