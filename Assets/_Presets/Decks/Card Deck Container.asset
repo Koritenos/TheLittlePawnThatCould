@@ -14,3 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _Deck:
   - {fileID: 11400000, guid: c54defb21fcfc974699a488b448a492d, type: 2}
+  - {fileID: 11400000, guid: 6a53aa6e7d2b7ee41be1ce3c56b05877, type: 2}
+  - {fileID: 11400000, guid: c54defb21fcfc974699a488b448a492d, type: 2}
+  - {fileID: 11400000, guid: 6a53aa6e7d2b7ee41be1ce3c56b05877, type: 2}
+  - {fileID: 11400000, guid: c54defb21fcfc974699a488b448a492d, type: 2}
+  - {fileID: 11400000, guid: 6a53aa6e7d2b7ee41be1ce3c56b05877, type: 2}
+  - {fileID: 11400000, guid: c54defb21fcfc974699a488b448a492d, type: 2}

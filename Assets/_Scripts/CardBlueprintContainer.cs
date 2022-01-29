@@ -5,7 +5,7 @@ public class CardBlueprintContainer : ScriptableObject
 {
 
     public string _cardName;
-    public Texture2D _cardSplash;
+    public Sprite _cardSplash;
     public string _cardMovementClass;
     public string _cardActionClass;
 

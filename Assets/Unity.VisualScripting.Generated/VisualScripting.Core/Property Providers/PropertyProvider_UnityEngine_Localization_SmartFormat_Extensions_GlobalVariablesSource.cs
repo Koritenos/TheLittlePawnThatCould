@@ -12,8 +12,8 @@ namespace Unity.VisualScripting.Generated.PropertyProviders
 {
 	
 	
-	[global::Unity.VisualScripting.SerializedPropertyProviderAttribute(typeof(global::UnityEngine.Localization.SmartFormat.Extensions.GlobalVariablesSource))]
-	public class PropertyProvider_UnityEngine_Localization_SmartFormat_Extensions_GlobalVariablesSource : Unity.VisualScripting.SerializedPropertyProvider<UnityEngine.Localization.SmartFormat.Extensions.GlobalVariablesSource>
+	[global::Unity.VisualScripting.SerializedPropertyProviderAttribute(typeof(UnityEngine.Localization.SmartFormat.Extensions.PersistentVariablesSource))]
+	public class PropertyProvider_UnityEngine_Localization_SmartFormat_Extensions_GlobalVariablesSource : Unity.VisualScripting.SerializedPropertyProvider<UnityEngine.Localization.SmartFormat.Extensions.PersistentVariablesSource>
 	{
 	}
 }

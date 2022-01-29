@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Castle
   m_EditorClassIdentifier: 
   _cardName: Castle
-  _cardSplash: {fileID: 0}
+  _cardSplash: {fileID: 21300000, guid: f00feafcf0675cd47a48f83ae42b06d4, type: 3}
   _cardMovementClass: Tower
   _cardActionClass: 
