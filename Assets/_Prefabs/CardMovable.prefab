@@ -57,9 +57,17 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"OnHoverAnimationDuration","value":{"$content":0.4,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"OnHoverEndAnimationDuration","value":{"$content":0.4,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Card
-      Moves","value":{"$content":[{"$content":"Diagonal","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
-      Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
+      Moves","value":{"$content":[],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
+      Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Card
+      Abilities","value":{"$content":[],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
+      Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"White
+      Side","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Black
+      Side","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 1084248125213728645}
+    - {fileID: 2182868661465401931}
 --- !u!114 &-4508172002550348066
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -329,6 +337,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5388aa9655395ee42b01d6b63c105667, type: 3}
+--- !u!1 &1084248125213728645 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3588106736526021446, guid: 5388aa9655395ee42b01d6b63c105667, type: 3}
+  m_PrefabInstance: {fileID: 4523727270743805123}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2182868661465401931 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2345419412117702280, guid: 5388aa9655395ee42b01d6b63c105667, type: 3}
+  m_PrefabInstance: {fileID: 4523727270743805123}
+  m_PrefabAsset: {fileID: 0}
 --- !u!224 &8535273035404435879 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 5239058998202658148, guid: 5388aa9655395ee42b01d6b63c105667, type: 3}

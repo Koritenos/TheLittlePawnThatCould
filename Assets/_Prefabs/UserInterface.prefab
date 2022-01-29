@@ -945,12 +945,15 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ExpectedCardsCount","value":{"$content":5,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Card
       Object To Spawn","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Card
+      Deck","value":{"$content":4,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"CardDeckContainer,
+      Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 2080295774438994926}
     - {fileID: 5476834779763788525}
     - {fileID: 3631485035762968465}
     - {fileID: 755457729341250614, guid: e2c6497520d141e42a7a83f4148d7876, type: 3}
+    - {fileID: 11400000, guid: c2bd0ec560c1dfe478ff26ed939fed13, type: 2}
 --- !u!114 &1024371094
 MonoBehaviour:
   m_ObjectHideFlags: 0
