@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _cardName: Sword
   _cardSplash: {fileID: 21300000, guid: 98cb3e6b83f5c224f9d81bf6e048c3de, type: 3}
-  _cardColor: {r: 0, g: 0, b: 0, a: 0}
+  _cardColor: {r: 1, g: 1, b: 1, a: 1}
   _hasMovementAbility: 0
   _cardMovementClass: 
   _cardMovementDescription: 'Attack: 1 tile diagonally'
-  _hasSpecialAbility: 0
-  _cardActionClass: 
+  _hasSpecialAbility: 1
+  _cardActionClass: Sword
   _cardActionDescription: 

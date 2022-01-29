@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _cardName: Bishop
   _cardSplash: {fileID: 21300000, guid: 0b8d1fcc115863246a0a5377e2a4cb49, type: 3}
-  _cardColor: {r: 0, g: 0, b: 0, a: 0}
-  _hasMovementAbility: 0
-  _cardMovementClass: 
+  _cardColor: {r: 1, g: 1, b: 1, a: 1}
+  _hasMovementAbility: 1
+  _cardMovementClass: Bishop
   _cardMovementDescription: 'Move: 2 tiles diagonally'
   _hasSpecialAbility: 0
   _cardActionClass: 
