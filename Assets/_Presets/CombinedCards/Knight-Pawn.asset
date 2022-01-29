@@ -13,4 +13,8 @@ MonoBehaviour:
   m_Name: Knight-Pawn
   m_EditorClassIdentifier: 
   _whiteCard: {fileID: 11400000, guid: 211ec2657fccd28458b5dde4b75e8863, type: 2}
+  _whiteCardBackgroundSprite: {fileID: 0}
+  _whiteCardBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
   _blackCard: {fileID: 11400000, guid: 7ddc062e117f84d44a7f43842ab4f02a, type: 2}
+  _blackCardBackgroundSprite: {fileID: 0}
+  _blackCardBackgroundColor: {r: 1, g: 1, b: 1, a: 1}

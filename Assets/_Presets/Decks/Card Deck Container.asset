@@ -12,6 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 096c88f0526a3d5499ef28bd2d0edec7, type: 3}
   m_Name: Card Deck Container
   m_EditorClassIdentifier: 
+  _deckName: First Deck
+  _deckBacksideSprite: {fileID: 0}
+  _deckBacksideColor: {r: 1, g: 1, b: 1, a: 1}
   _Deck:
   - {fileID: 11400000, guid: c54defb21fcfc974699a488b448a492d, type: 2}
   - {fileID: 11400000, guid: 6a53aa6e7d2b7ee41be1ce3c56b05877, type: 2}
