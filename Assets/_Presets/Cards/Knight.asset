@@ -17,7 +17,7 @@ MonoBehaviour:
   _cardColor: {r: 0, g: 0, b: 0, a: 0}
   _hasMovementAbility: 1
   _cardMovementClass: Knight
-  _cardMovementDescription: Knight Movement Description
+  _cardMovementDescription: "Move: \u201CL\u201D shaped jump"
   _hasSpecialAbility: 0
   _cardActionClass: 
   _cardActionDescription: 

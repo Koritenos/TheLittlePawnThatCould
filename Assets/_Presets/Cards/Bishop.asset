@@ -17,7 +17,7 @@ MonoBehaviour:
   _cardColor: {r: 0, g: 0, b: 0, a: 0}
   _hasMovementAbility: 0
   _cardMovementClass: 
-  _cardMovementDescription: 
+  _cardMovementDescription: 'Move: 2 tiles diagonally'
   _hasSpecialAbility: 0
   _cardActionClass: 
   _cardActionDescription: 

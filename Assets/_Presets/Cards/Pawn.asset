@@ -17,7 +17,7 @@ MonoBehaviour:
   _cardColor: {r: 0, g: 0, b: 0, a: 0}
   _hasMovementAbility: 1
   _cardMovementClass: Straight
-  _cardMovementDescription: Pawn Straight Movement Description
+  _cardMovementDescription: 'Move: 1 tile straight ahead'
   _hasSpecialAbility: 0
   _cardActionClass: 
   _cardActionDescription: 
