@@ -12,8 +12,8 @@ GameObject:
   - component: {fileID: 7537980256771174745}
   - component: {fileID: 3117170507823693334}
   - component: {fileID: 4429832808990284215}
-  m_Layer: 6
-  m_Name: Plane
+  m_Layer: 0
+  m_Name: Movement Indicator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -113,7 +113,7 @@ GameObject:
   - component: {fileID: 11728477324933515}
   - component: {fileID: 1805267028202502506}
   - component: {fileID: -5717103858652332655}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Chessplane Template
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -217,10 +217,14 @@ MonoBehaviour:
     _json: '{"declarations":{"collection":{"$content":[{"name":"Index","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"IsWhite","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"PossibleMovesIndicator","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"IndicatorsSpawned","value":{"$type":"Unity.VisualScripting.AotDictionary"},"typeHandle":{"Identification":"Unity.VisualScripting.AotDictionary,
-      Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"IndicatorTimeToDestroy","value":{"$content":0.2,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Default
+      Layer","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Brake
+      Indicator Disabling","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 3845374029090254921, guid: fee91045f5724fe42b50f5a8a333099c, type: 3}
+    - {fileID: 4044916159520328152}
 --- !u!114 &1805267028202502506
 MonoBehaviour:
   m_ObjectHideFlags: 0
