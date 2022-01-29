@@ -13,6 +13,8 @@ MonoBehaviour:
   m_Name: King
   m_EditorClassIdentifier: 
   _cardName: King
-  _cardSplash: {fileID: 21300000, guid: f00feafcf0675cd47a48f83ae42b06d4, type: 3}
+  _cardSplash: {fileID: 21300000, guid: d80149142ff64ed42abcd5e2fb793610, type: 3}
+  _cardMovementDescription: 
   _cardMovementClass: King
+  _cardActionDescription: 
   _cardActionClass: 
