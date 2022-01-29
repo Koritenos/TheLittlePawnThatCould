@@ -14,5 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _cardName: Diagonal Pawn
   _cardSplash: {fileID: 21300000, guid: f00feafcf0675cd47a48f83ae42b06d4, type: 3}
+  _cardColor: {r: 0, g: 0, b: 0, a: 0}
+  _hasMovementAbility: 1
   _cardMovementClass: Diagonal
+  _cardMovementDescription: Diagonal Pawn Movement Description
+  _hasSpecialAbility: 0
   _cardActionClass: 
+  _cardActionDescription: 
