@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5902050062417201166}
   - component: {fileID: 5067253790134037306}
   - component: {fileID: 1157726739264359201}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Enemy Indicator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -110,7 +110,7 @@ GameObject:
   - component: {fileID: 7225986913906179083}
   - component: {fileID: 2730408157220657075}
   - component: {fileID: 8398298381371067039}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Chest Indicator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -208,7 +208,7 @@ GameObject:
   - component: {fileID: 7537980256771174745}
   - component: {fileID: 3117170507823693334}
   - component: {fileID: 4429832808990284215}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Movement Indicator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -473,7 +473,7 @@ GameObject:
   - component: {fileID: 5545380596047632306}
   - component: {fileID: 6681412721389531245}
   - component: {fileID: 1553802483976867047}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: TileBackground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -571,7 +571,7 @@ GameObject:
   - component: {fileID: 5623576499294853984}
   - component: {fileID: 1497914848120121571}
   - component: {fileID: 2324068610415980581}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Exit Indicator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -666,11 +666,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1822100639692428430, guid: e7e11875285d4134191afd9f081fbb1e, type: 3}
       propertyPath: m_Layer
-      value: 6
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3447368706867611002, guid: e7e11875285d4134191afd9f081fbb1e, type: 3}
       propertyPath: m_Layer
-      value: 6
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5054690874147166325, guid: e7e11875285d4134191afd9f081fbb1e, type: 3}
       propertyPath: m_Name
@@ -678,7 +678,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5054690874147166325, guid: e7e11875285d4134191afd9f081fbb1e, type: 3}
       propertyPath: m_Layer
-      value: 6
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5579412644189897423, guid: e7e11875285d4134191afd9f081fbb1e, type: 3}
       propertyPath: m_RootOrder
@@ -726,11 +726,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5663289889372408765, guid: e7e11875285d4134191afd9f081fbb1e, type: 3}
       propertyPath: m_Layer
-      value: 6
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7618531120213811392, guid: e7e11875285d4134191afd9f081fbb1e, type: 3}
       propertyPath: m_Layer
-      value: 6
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e7e11875285d4134191afd9f081fbb1e, type: 3}
