@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Chessboard-Highlight
+  m_Name: Chessboard-ExitHighlight
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _EMISSION
   m_LightmapFlags: 1
@@ -74,6 +74,6 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.3087753, g: 1, b: 0, a: 1}
-    - _EmissionColor: {r: 8.970333, g: 4.7320566, b: 0.2468899, a: 1}
+    - _Color: {r: 0.00126791, g: 0, b: 1, a: 1}
+    - _EmissionColor: {r: 0.17121506, g: 0, b: 1, a: 1}
   m_BuildTextureStacks: []
